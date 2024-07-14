@@ -1,9 +1,9 @@
-👋 Hi, I’m @TechZygen
-👀 I’m interested in web development, JavaScript, and learning new programming languages
-🌱 I’m currently learning HTML, CSS, and JavaScript.
-💞️ I’m looking to collaborate on open-source web development projects and beginner-friendly coding challenges.
-📫 How to reach me m_nabilmani(IG)
-😄 Pronouns: he/him
+👋 Hi, I’m @TechZygen <br>
+👀 I’m interested in web development, JavaScript, and learning new programming languages <br>
+🌱 I’m currently learning HTML, CSS, and JavaScript. <br>
+💞️ I’m looking to collaborate on open-source web development projects and beginner-friendly coding challenges. <br>
+📫 How to reach me m_nabilmani(IG) <br>
+😄 Pronouns: he/him <br>
 ⚡ Fun fact: I love creating interactive web applications and exploring the latest web technologies.
 
 <!---
