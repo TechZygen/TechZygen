@@ -2,7 +2,6 @@
 👀 I’m interested in web development, JavaScript, and learning new programming languages <br>
 🌱 I’m currently learning HTML, CSS, and JavaScript. <br>
 💞️ I’m looking to collaborate on open-source web development projects and beginner-friendly coding challenges. <br>
-📫 How to reach me m_nabilmani(IG) <br>
 😄 Pronouns: he/him <br>
 ⚡ Fun fact: I love creating interactive web applications and exploring the latest web technologies.
 
